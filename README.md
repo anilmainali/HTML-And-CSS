@@ -12,7 +12,7 @@ A browser is an app with a graphical user interface that is used to display HTML
 
 Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
-![browers](https://user-images.githubusercontent.com/10678180/33669018-e9907162-da66-11e7-9863-fdce4106026
+![browers](https://user-images.githubusercontent.com/10678180/33669018-e9907162-da66-11e7-9863-fdce4106026)
 
 
 
