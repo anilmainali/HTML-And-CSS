@@ -29,5 +29,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 - The default or the landing webpage is index.html or default.html in Microsoft term. But index.html is widely used.
 
+## Five required parts of an HTML 5 Documents.
+
 
 
