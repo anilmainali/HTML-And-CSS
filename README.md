@@ -20,9 +20,12 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 - You can apply dimensions, borders,shape,size,color,fonts and many more with the help of CSS.
 
 ## HTML DOCUMENTS
-Everything that a browser displays is contained in a HTML document. 
+- Everything that a browser displays is contained in a HTML document. 
 
-Each HTML document is just a file and ends in .html
+- Each HTML document is just a file and ends in .html
+
+### What is a website?
+A website is a collection of individual linked documents. Sometimes called web pages.
 
 
 
