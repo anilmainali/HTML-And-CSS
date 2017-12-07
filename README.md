@@ -31,6 +31,8 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 ## Five required parts of an HTML 5 Documents.
 1. Document type
+0. Root element
+
 
 
 
