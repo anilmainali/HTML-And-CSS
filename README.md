@@ -20,6 +20,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 - You can apply dimensions, borders,shape,size,color,fonts and many more with the help of CSS.
 
 ## HTML DOCUMENTS
+Everything that a browser displays is contained in a HTML document. 
 
 
 
