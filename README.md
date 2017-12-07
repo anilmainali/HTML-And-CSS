@@ -25,8 +25,9 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 - Each HTML document is just a file and ends in .html
 
 ### What is a website?
-A website is a collection of individual linked documents. Sometimes called web pages.
+- A website is a collection of individual linked documents. Sometimes called web pages.
 
+- The default or the landing webpage is index.html or default.html in Microsoft term. But index.html is widely used.
 
 
 
