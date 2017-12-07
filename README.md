@@ -33,6 +33,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 1. Document type
 0. Root element
 0. Meta information
+0. Document title
 
 
 
