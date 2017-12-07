@@ -22,7 +22,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 ## HTML DOCUMENTS
 Everything that a browser displays is contained in a HTML document. 
 
-
+Each HTML document is just a file and ends in .html
 
 
 
