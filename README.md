@@ -17,6 +17,8 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 ## What is CSS?
 - CSS definies how the structure created by HTML looks.
 - Defines how HTML elements look and feel.
+- You can apply dimensions, borders,shape,size,color,fonts and many more with the help of CSS.
+
 
 
 
