@@ -15,6 +15,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 ![browers](https://user-images.githubusercontent.com/10678180/33669018-e9907162-da66-11e7-9863-fdce4106026a.PNG)
 
 ## What is CSS?
+- CSS definies how the structure created by HTML looks.
 
 
 
