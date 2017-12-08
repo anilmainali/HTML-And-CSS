@@ -10,6 +10,7 @@ Getting started With HTML And CSS
 
 ## Why HTML?
 - HTML is Simple.
+- It is Browser/ Platform Independent
 
 
 ## What is a Browser?
