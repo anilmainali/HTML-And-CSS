@@ -9,6 +9,7 @@ Getting started With HTML And CSS
 - Websites are almost always built with blocks of HTML called divisions.
 
 ## Why HTML?
+- HTML is Simple.
 
 
 ## What is a Browser?
