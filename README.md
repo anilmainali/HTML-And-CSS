@@ -12,6 +12,7 @@ Getting started With HTML And CSS
 - HTML is Simple.
 - It is Browser/ Platform Independent.
 - It is not Case Sensitive
+- A medium for User Interface
 
 
 ## What is a Browser?
