@@ -13,8 +13,9 @@ Besides
 - It is not Case Sensitive
 - A medium for User Interface
 
-## Why do I need HTML?
-Share information with the world in the form of different pages linked together.
+## Why do I need to learn HTML and CSS?
+- Anybody who is interested in becoming developer then they will be need to know about HTML and CSS.
+- Share information with the world in the form of different pages linked together.
 
 ## What is a Browser?
 A browser is an app with a graphical user interface that is used to display HTML.
