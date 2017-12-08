@@ -8,6 +8,9 @@ Getting started With HTML And CSS
 - It is way to tell a browser how to display a web page.
 - Websites are almost always built with blocks of HTML called divisions.
 
+## Why HTML?
+
+
 ## What is a Browser?
 A browser is an app with a graphical user interface that is used to display HTML.
 
