@@ -7,7 +7,9 @@ Getting started With HTML And CSS
 - It Defines the  structure of a web page.
 - It is way to tell a browser how to display a web page.
 - Websites are almost always built with blocks of HTML called divisions.
-Besides
+
+Besides,
+
 - HTML is Simple.
 - It is Browser/ Platform Independent.
 - It is not Case Sensitive
