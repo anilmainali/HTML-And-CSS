@@ -31,7 +31,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 - Defines how HTML elements look and feel.
 - You can apply dimensions, borders,shape,size,color,fonts and many more with the help of CSS.
 
-## HTML DOCUMENTS
+## HTML DOCUMENTS/Page Structure
 - Everything that a browser displays is contained in a HTML document. 
 
 - Each HTML document is just a file and ends in .html
