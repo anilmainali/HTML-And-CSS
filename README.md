@@ -2,7 +2,7 @@
 Getting started With HTML And CSS
 
 ## What is HTML?
-- HTML stands for **Hypertext Markup Language**
+- HTML stands for **HyperText Markup Language**
 - Defines the  structure of a web page.
 - It is way to tell a browser how to display a web page.
 - Websites are almost always built with blocks of HTML called divisions.
