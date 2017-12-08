@@ -10,7 +10,8 @@ Getting started With HTML And CSS
 
 ## Why HTML?
 - HTML is Simple.
-- It is Browser/ Platform Independent
+- It is Browser/ Platform Independent.
+- It is not Case Sensitive
 
 
 ## What is a Browser?
