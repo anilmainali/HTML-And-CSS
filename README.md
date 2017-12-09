@@ -38,7 +38,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 ## Webpage Structure
 
-`
+```
 <!DOCTYPE>
 <html>
 <head>
@@ -51,7 +51,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 </body>
 
 </html>
-`
+```
 
 
 
