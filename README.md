@@ -38,6 +38,21 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 ## Webpage Structure
 
+`
+<!DOCTYPE>
+<html>
+<head>
+     <title>Page Title</title>
+</head>
+<body>
+
+<p>Content</p>
+
+</body>
+
+</html>
+`
+
 
 
 ### What is a website?
