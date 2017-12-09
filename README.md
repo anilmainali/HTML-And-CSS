@@ -55,6 +55,9 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 Look at the above example: 
 
+- It has html start and end tag.
+- 
+
 
 
 ### What is a website?
