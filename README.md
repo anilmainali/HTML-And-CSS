@@ -36,6 +36,10 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 - Each HTML document is just a file and ends in .html
 
+## Webpage Structure
+
+
+
 ### What is a website?
 - A website is a collection of individual linked documents. Sometimes called web pages.
 
