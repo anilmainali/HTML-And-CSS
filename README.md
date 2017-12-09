@@ -53,6 +53,8 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 </html>
 ```
 
+Look at the above example: 
+
 
 
 ### What is a website?
