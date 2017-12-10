@@ -73,6 +73,10 @@ Look at the above example:
 - Inbetween html tag it has head tag. head tag will have some other tag.For example: title tag.
 - It will have body tag and inside body there will be other tags. For Example: paragraph tag.
 
+
+## A Bit of Explanation
+
+```
 <!DOCTYPE html>
 
 <!— This tells the browser what version of HTML you want to use —>
@@ -91,7 +95,7 @@ Look at the above example:
 </body>
      
 </html>
-
+```
 
 
 ### What is a website?
