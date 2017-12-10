@@ -75,6 +75,9 @@ Look at the above example:
 
 <!DOCTYPE html>
 
+<!— This tells the browser what version of HTML you want to use —>
+
+
 
 
 ### What is a website?
