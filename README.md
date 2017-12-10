@@ -84,7 +84,11 @@ Look at the above example:
 <!— Information about the file goes in this section —>
 
 </head>
-     
+
+<body>
+<!— All the content you see on a page goes in the body section —>
+
+</body>
      
 </html>
 
