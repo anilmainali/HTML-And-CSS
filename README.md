@@ -20,6 +20,7 @@ Besides,
 - If you are interested in becoming developer then you will need to know about HTML and CSS.
 - To make web Site.
 - Share information with the world in the form of different pages linked together.
+- Learning HTML and CSS is a great stepping stone if you want to learn other programming languages. 
 
 ## What is a Browser?
 A browser is an app with a graphical user interface that is used to display HTML.
