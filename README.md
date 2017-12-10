@@ -104,8 +104,10 @@ Look at the above example:
 
 <!— All the content you see on a page goes in the body section —>
 
+
 </body>
      
+
 </html>
 
 
