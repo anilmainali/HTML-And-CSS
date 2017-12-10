@@ -39,6 +39,8 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 ## What is an Attribute?
 
+## Adding an attribute Demo
+
 ## HTML DOCUMENTS/Page Structure
 - Everything that a browser displays is contained in a HTML document. 
 
