@@ -1,8 +1,8 @@
 # HTML-And-CSS
 Getting started With HTML And CSS
 
-- [ What is HTML?](# What is HTML?)
-- [Why do I need to learn HTML and CSS?](# Why do I need to learn HTML and CSS?)
+- [What is HTML?](#What-is-HTML?)
+- [Why do I need to learn HTML and CSS?](#Why-do-I-need-to-learn-HTML-and-CSS?)
 
 
 ## What is HTML?
