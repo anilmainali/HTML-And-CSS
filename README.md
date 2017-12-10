@@ -12,7 +12,6 @@ Besides,
 
 - HTML is Simple.
 - It is Browser/ Platform Independent.
-- It is not Case Sensitive
 - A medium for User Interface
 
 ## Why do I need to learn HTML and CSS?
