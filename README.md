@@ -80,7 +80,10 @@ Look at the above example:
    
 <!— All of your HTML code goes inside of the HTML tag —>
 
+<head>
+<!— Information about the file goes in this section —>
 
+</head>
      
      
 </html>
