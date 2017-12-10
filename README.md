@@ -16,7 +16,9 @@ Besides,
 - A medium for User Interface
 
 ## Why do I need to learn HTML and CSS?
-- Anybody who is interested in becoming developer then they will be need to know about HTML and CSS.
+
+- If you are interested in becoming developer then you will need to know about HTML and CSS.
+- To make web Site.
 - Share information with the world in the form of different pages linked together.
 
 ## What is a Browser?
