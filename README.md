@@ -41,6 +41,10 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 
 ## Adding an attribute Demo
 
+## What is Global Attribute?
+
+
+
 ## HTML DOCUMENTS/Page Structure
 - Everything that a browser displays is contained in a HTML document. 
 
