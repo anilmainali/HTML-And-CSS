@@ -78,24 +78,35 @@ Look at the above example:
 
 ```
 <!DOCTYPE html>
+```
 
 <!— This tells the browser what version of HTML you want to use —>
+
+```
 <html>
-   
+```
+
 <!— All of your HTML code goes inside of the HTML tag —>
 
+```
 <head>
+```
+
 <!— Information about the file goes in this section —>
 
+``` 
 </head>
+```
 
+```
 <body>
+```
+
 <!— All the content you see on a page goes in the body section —>
 
 </body>
      
 </html>
-```
 
 
 ### What is a website?
