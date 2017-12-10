@@ -77,7 +77,10 @@ Look at the above example:
 
 <!— This tells the browser what version of HTML you want to use —>
 <html>
-     
+   
+<!— All of your HTML code goes inside of the HTML tag —>
+
+
      
      
 </html>
