@@ -131,5 +131,15 @@ Look at the above example:
 
 ## Introduction To HTML Elements And Attributes
 
+<div id=“myDiv”> Hello </div>
 
+Here in the example: 
+
+<div is Open Tag
+
+id=“myDiv” is Attribute
+
+Hello is Content
+
+</div> is closing Tag
 
