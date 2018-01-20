@@ -145,3 +145,20 @@ Hello is Content
 
 </div> is closing Tag
 
+Here we have an attribute id which value is myDiv so id is Key and myDiv is value so key value pair will make an attribute.  
+
+the complete thing is your Element.
+
+- Everything is a Tag in HTML.
+
+- The HTML instructions are called Tags. Basically tags are classified into two categories.
+1. Container Tags
+2. Empty Tags
+
+1. Container Tags: Tags that have starting as well as ending part.
+
+Example: <title>Title of the Web Page</title>
+
+2. Empty Tags: Tags that do not have the closing part.
+
+Example: <br>
