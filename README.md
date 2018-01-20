@@ -131,6 +131,8 @@ Look at the above example:
 
 ## Introduction To HTML Elements And Attributes
 
+<img width="1063" alt="html_01" src="https://user-images.githubusercontent.com/10678180/35181370-37ad7344-fd86-11e7-9d5f-f71a2e8d7b45.png">
+
 <div id=“myDiv”> Hello </div>
 
 Here in the example: 
