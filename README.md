@@ -165,3 +165,18 @@ Example: <br>
 
 HTML instructions plus text to which the instructions apply is an HTML element.
 
+## Attributes:
+
+A key value pairs inside the tag which defines the some features of text are called as Attributes.
+
+Some important attributes of the BODY tag:
+
+- BGCOLOR=“color” / “rrggbb”
+- BGPROPERTIES= “FIXED”
+- BACKGROUND= “url of the image”
+- TEXT= “COLOR” / “rrggbb”
+
+Core attributes of the tags inside body.
+- id
+- name
+- value and class
