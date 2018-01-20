@@ -162,3 +162,6 @@ Example: <title>Title of the Web Page</title>
 2. Empty Tags: Tags that do not have the closing part.
 
 Example: <br>
+
+HTML instructions plus text to which the instructions apply is an HTML element.
+
