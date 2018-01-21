@@ -180,3 +180,5 @@ Core attributes of the tags inside body.
 - id
 - name
 - value and class
+
+## Document Structure Tags
