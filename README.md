@@ -185,5 +185,8 @@ Core attributes of the tags inside body.
 Below are the mostly used tags to structure the content on the body of the page.
 
 - <h[1-6]>
+- <div>
+- <span>
+
 
 
