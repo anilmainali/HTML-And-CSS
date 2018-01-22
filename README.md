@@ -199,6 +199,9 @@ Most of the page layouts are based upon tables or to show some tabular data on t
 
 - <table>
 - <caption>
+- <thread>
+- <tbody>
+
 
 
 
