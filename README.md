@@ -184,13 +184,27 @@ Core attributes of the tags inside body.
 ## Document Structure Tags
 Below are the mostly used tags to structure the content on the body of the page.
 
+```
 - <h[1-6]>
+```
+```
 - <div>
+```
+```
 - <span>
+```
+```
 - <p>
+```
+```
 - <pre>
+```
+```
 - <br/>
+```
+```
 - <hr/>
+```
 
 ## Table And Image Tag
 
