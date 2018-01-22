@@ -197,6 +197,8 @@ Below are the mostly used tags to structure the content on the body of the page.
 ### Tables:
 Most of the page layouts are based upon tables or to show some tabular data on the web pages we sometime use tables.
 
+- <table>
+- <caption>
 
 
 
