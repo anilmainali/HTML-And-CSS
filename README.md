@@ -203,6 +203,9 @@ Most of the page layouts are based upon tables or to show some tabular data on t
 - <tbody>
 - <tfoot>
 - <col>
+- <tr>
+- <th>
+- <td>
 
 
 
