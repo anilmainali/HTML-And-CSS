@@ -201,6 +201,9 @@ Most of the page layouts are based upon tables or to show some tabular data on t
 - <caption>
 - <thread>
 - <tbody>
+- <tfoot>
+- <col>
+
 
 
 
