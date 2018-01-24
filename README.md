@@ -38,7 +38,10 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 - You can apply dimensions, borders,shape,size
 
 ## Why CSS
-CSS is a language you can use to control the formatting, presentation and overall look of a web page.
+- CSS is a language you can use to control the formatting, presentation and overall look of a web page.
+- Things like color, layout and fonts.
+
+
 
 
 
