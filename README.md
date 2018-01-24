@@ -40,7 +40,7 @@ Example: Safari, Firefox, chrome, Internet Explorer, Microsoft edge.
 ## Why CSS
 - CSS is a language you can use to control the formatting, presentation and overall look of a web page.
 - Things like color, layout and fonts.
-
+- Example of HTML Markup which are not using CSS
 
 
 
