@@ -254,7 +254,38 @@ To display images on web page we use image tag
 <img>
 ```
 
+Demo for Image
 
+
+<html>
+
+<body>
+   <table>
+     <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+     </tr>
+   
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+     </tr>
+
+
+       <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+       </tr>
+
+
+
+   </table>
+
+</body>
+</html>
 
 
 
