@@ -247,6 +247,15 @@ Most of the page layouts are based upon tables or to show some tabular data on t
 - <td>
 ```
 
+## Images
+To display images on web page we use image tag
+
+```
+<img>
+```
+
+
+
 
 
 
